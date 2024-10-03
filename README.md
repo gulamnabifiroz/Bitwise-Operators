@@ -2,7 +2,7 @@
 This repository contains examples and explanations of bit manipulation and various bitwise operations implemented in C++. It is designed to help users understand and perform efficient low-level operations on binary data.
 <br>
 <br>
-<p align="center">Experiment 4</p>
+<p align="center">Experiment 4A</p>
 <br>
 
 ## Aim
